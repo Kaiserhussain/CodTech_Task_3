@@ -116,3 +116,6 @@ Steps:
 
 Results:
 The results will provide insights into different customer segments, which can be used for targeted marketing and personalized customer experiences. The segment analysis will include average age, annual income, spending score, and the number of customers in each cluster.
+
+![WhatsApp Image 2024-07-09 at 20 39 27_a8947ded](https://github.com/Kaiserhussain/CodTech_Task_3/assets/113304836/9b3fe913-c47a-4e4e-a7ca-087701d6408c)
+
